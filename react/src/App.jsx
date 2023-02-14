@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 import { UserContext } from "./UserContext";
 import { Routes, Route } from "react";
-import Loginegister from './LoginRegister/LoginRegister'
+import LoginRegister from './LoginRegister/LoginRegister'
 import TodosList from './TodoList'
 
 function App() {
